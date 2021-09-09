@@ -1,3 +1,13 @@
+# React Nutri
+
+Este projeto foi desenvolvido em React JS e se trata de um blog de nutrição.
+
+O projeto foi desenvolvido com a finalidade de aprender e praticar requisições de API e exibi-las em uma aplicação React de uma forma dinâmica e simples.
+
+<p align="center">
+  <img src="/src/assets/nutri.PNG" width="100%">
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
